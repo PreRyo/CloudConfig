@@ -1,0 +1,2 @@
+# CloudConfig
+Config Center test
